@@ -1,6 +1,5 @@
 import 'package:theme/enum/dark_option.dart';
 
-// fixed
 class UtilTheme {
   static String exportLangTheme(DarkOption option) {
     switch (option) {

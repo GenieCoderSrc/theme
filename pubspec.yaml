@@ -1,7 +1,10 @@
 name: theme
-description: "A new Flutter package project."
-version: 0.0.1
-homepage:
+description: "A flexible and customizable theme package for Flutter applications. Includes multiple pre-defined themes like light, dark, brown, pink, orange, and green, with an easy-to-use class for managing and switching between them. Perfect for applications that require dynamic theme support with minimal setup."
+version: 0.0.2
+homepage: https://github.com/GenieCoderSrc/theme
+repository: https://github.com/GenieCoderSrc/theme
+issue_tracker: https://github.com/GenieCoderSrc/theme/issues
+
 
 environment:
   sdk: ^3.6.0
@@ -22,6 +25,8 @@ dev_dependencies:
 # The following section is specific to Flutter packages.
 flutter:
 
+example:
+  path: example
   # To add assets to your package, add an assets section, like this:
   # assets:
   #   - images/a_dot_burr.jpeg

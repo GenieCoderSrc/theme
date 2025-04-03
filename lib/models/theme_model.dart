@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:theme/enum/theme_types.dart';
 
-// fixed
 class ThemeModel {
   final String name;
   final Color color;
